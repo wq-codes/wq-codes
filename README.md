@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Waqar Younas
 
-![Banner](https://github.com/user-attachments/assets/1568b904-38b6-4c8a-a1dd-402b80612d9a)
+
 
 
 ## 🚀 About Me
-I am a **2nd-semester Software Engineering student at COMSATS University Islamabad, Lahore Campus**, passionate about programming and learning new technologies.  
+I am a **Software Engineering student at COMSATS University Islamabad, Lahore Campus**, passionate about programming and learning new technologies.  
 I enjoy building projects, improving my coding skills, and exploring the world of software development.
 
-- 🎓 Currently studying **Software Engineering (2nd Semester)**  
+- 🎓 Currently studying **(2nd Semester)**  
 - 💻 Interested in **C++, Java, Python, Git & GitHub**  
  
 
@@ -17,9 +17,10 @@ I enjoy building projects, improving my coding skills, and exploring the world o
 
 | Languages | Tools & Technologies |  
 |-----------|-------------------|  
+|C  |
 | C++ | Git & GitHub |  
-| Java | VS Code |  
-| Python 
+| VS Code |  
+|Learning JAVA| 
 
 ---
 
