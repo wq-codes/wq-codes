@@ -43,6 +43,3 @@ Check out my repositories [here](https://github.com/waqar01-git).
 
 ---
 
-## 🌟 GitHub Stats
-
-![Waqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqar01-git&show_icons=true&theme=radical)
