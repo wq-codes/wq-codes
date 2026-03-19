@@ -19,7 +19,7 @@ I enjoy building projects, improving my coding skills, and exploring the world o
 |-----------|-------------------|  
 |C  |
 | C++ | Git & GitHub |  
-| VS Code |  
+ 
 |Learning JAVA| 
 
 ---
