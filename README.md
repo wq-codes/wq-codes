@@ -11,18 +11,6 @@ I enjoy building projects, improving my coding skills, and exploring the world o
 - 💻 Interested in **C++, Java, Python, Git & GitHub**  
  
 
----
-
-## 🛠️ Skills
-
-| Languages | Tools & Technologies |  
-|-----------|-------------------|  
-|C  |
-| C++ | Git & GitHub |  
- 
-|Learning JAVA| 
-
----
 
 ## 📂 Projects
 
