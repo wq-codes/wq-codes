@@ -1,6 +1,6 @@
 # Hey, I'm Waqar Younas. ¯\_(ツ)_/¯
 
-SE student. COMSATS Lahore. Semester 2. Still figuring things out — on purpose.
+SE student. COMSATS Lahore.figuring things out — on purpose.
 
 ---
 
