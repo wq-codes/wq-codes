@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Waqar+Younas;Software+Engineering+Student;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
 
-
 </div>
 
 ---
@@ -16,7 +15,7 @@
   "name"        : "Waqar Younas",
   "handle"      : "wq-codes",
   "university"  : "COMSATS University Islamabad, Lahore Campus",
-  "degree"      : "Software Engineering",
+  "degree"      : "BS Software Engineering",
   "learning"    : ["C", "C++", "Python", "OOP in Java"],
   "exploring"   : "Computer Networking & how the internet really works",
   "goal"        : "Build things I actually understand",
@@ -48,10 +47,10 @@
 | | |
 |---|---|
 | 📚 **Studying** | Object-Oriented Programming in Java |
-| 🌐 **Exploring** | Networking fundamentals  |
+| 🌐 **Exploring** | Networking fundamentals — TCP/IP, DNS, HTTP |
 | 🏫 **University** | COMSATS University Islamabad, Lahore Campus |
 | 🔨 **Building** | Consistency as a habit |
-| 🤝 **Open to** | learning together |
+| 🤝 **Open to** | Collaborations & learning together |
 
 ---
 
@@ -99,8 +98,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-wq--codes-181717?style=for-the-badge&logo=github)](https://github.com/wq-codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waqar_Younas-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waqar_xial)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaryou06@gmail.com)
 
 </div>
 
