@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Waqar+Younas;Software+Engineering+Student;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
-
+<img src="https://komarev.com/ghpvc/?username=wq-codes&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wq-codes&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=e6edf3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wq-codes&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=e6edf3&cache_seconds=1800" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=wq-codes&theme=react&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=wq-codes&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=7d8590&sideNums=ffffff&currStreakNum=ffffff" />
 
 </div>
 
