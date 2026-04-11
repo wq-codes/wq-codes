@@ -17,8 +17,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-<picture><img align="right" height="220rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></picture>
-
+<picture><img align="right" height="220rem" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/></picture>
 <br><br>
 
 - I debug better at night 
@@ -66,18 +65,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img alt="Waqar's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=waqar-younas&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" height="170px"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=waqar-younas&langs_count=10&show_icons=true&locale=en&theme=chartreuse-dark" alt="waqar-younas" height="170px"/>
+<img alt="Waqar's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wq-codes&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" height="170px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=wq-codes&langs_count=10&show_icons=true&locale=en&theme=chartreuse-dark" alt="wq-codes" height="170px"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=waqar-younas&theme=chartreuse-dark" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=wq-codes&theme=chartreuse-dark" width="60%" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wq-codes&theme=chartreuse-dark&hide_border=true&area=true" width="95%" alt="Waqar's Contribution Graph"/>
 </p>
-
 ---
 
 ## 🔗 Connect
@@ -94,4 +92,4 @@
   </a>
 </p>
 
-> *"Whatever is Easy is Hard, Whatever is Hard is Easy"*
+> *“I’m always hungry for improvement, for learning, for winning.” — Kylian Mbappé*
