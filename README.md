@@ -1,28 +1,32 @@
-<!-- Header Typing Animation -->
-<div align="center">
+<h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Waqar Younas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Waqar+Younas;Software+Engineering+Student;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
+<p align="left">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
+</a>
+</p>
 
 
-
-</div>
+![GitHub User's stars](https://img.shields.io/github/stars/waqar-younas?style=social)
+<img src="https://komarev.com/ghpvc/?username=waqar-younas" alt="waqar-younas" />
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waqar%20Younas-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/waqar-younas-00a9153b3)
+[![Email](https://img.shields.io/badge/Email-waqaryounas%40gmail.com-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:waqaryounas@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-```json
-{
-  "name"        : "Waqar Younas",
-  "handle"      : "wq-codes",
-  "university"  : "COMSATS University Islamabad, Lahore Campus",
-  "degree"      : "BS Software Engineering",
-  "learning"    : ["C", "C++", "Python", "OOP in Java"],
-  "exploring"   : "Computer Networking & how the internet really works",
-  "goal"        : "Build things I actually understand",
-  "available"   : true
-}
-```
+<picture><img align="right" height="220rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></picture>
+
+<br><br>
+
+- I debug better at night 
+- I think clean code is worth the extra time
+- I think networking is where the real magic happens
+- I don't just use the internet, I try to understand it
+
+<br>
 
 ---
 
@@ -43,69 +47,51 @@
 
 ---
 
-## 🚀 Currently
+## 🎓 Education
 
-| | |
-|---|---|
-| 📚 **Studying** | Object-Oriented Programming in Java |
-| 🌐 **Exploring** | Networking fundamentals — TCP/IP, DNS, HTTP |
-| 🏫 **University** | COMSATS University Islamabad, Lahore Campus |
-| 🔨 **Building** | Consistency as a habit |
-| 🤝 **Open to** | Collaborations & learning together |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.comsats.edu.pk/images/logo.png" width="90" alt="COMSATS University Islamabad"/>
+    </td>
+    <td>
+      <strong>BS Software Engineering</strong><br/>
+      COMSATS University Islamabad, Lahore Campus<br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img alt="Waqar's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=waqar-younas&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" height="170px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=waqar-younas&langs_count=10&show_icons=true&locale=en&theme=chartreuse-dark" alt="waqar-younas" height="170px"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wq-codes&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=e6edf3&cache_seconds=1800" />
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=waqar-younas&theme=chartreuse-dark" width="60%" />
+</p>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=wq-codes&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=7d8590&sideNums=ffffff&currStreakNum=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wq-codes&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
-
-</div>
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Waqar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wq-codes&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/wq-codes)
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wq-codes&theme=chartreuse-dark&hide_border=true&area=true" width="95%" alt="Waqar's Contribution Graph"/>
+</p>
 
 ---
 
-## 💬 Quote
+## 🔗 Connect
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/waqar-younas" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:waqaryounas@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/waqar-younas-00a9153b3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+</p>
 
-> *"I don't just use the internet — I try to understand it."*
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-wq--codes-181717?style=for-the-badge&logo=github)](https://github.com/wq-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waqar_Younas-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waqar_xial)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaryou06@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<sub>📍 Lahore, Pakistan &nbsp;·&nbsp; COMSATS University &nbsp;·&nbsp; Building in public</sub>
-</div>
+> *"Whatever is Easy is Hard, Whatever is Hard is Easy"*
