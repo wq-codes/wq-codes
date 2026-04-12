@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=waqar-younas" alt="waqar-younas" />
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waqar%20Younas-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/waqar-younas-00a9153b3)
-[![Email](https://img.shields.io/badge/Email-waqaryounas%40gmail.com-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:waqaryounas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-waqaryou06gmail.com-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:waqaryou06@gmail.com)
 
 ---
 
@@ -21,7 +21,7 @@
 <br><br>
 
 - I debug better at night 
-- I think clean code is worth the extra time
+- Code should explain itself—I just help it speak clearly
 - I think networking is where the real magic happens
 - I don't just use the internet, I try to understand it
 
@@ -84,7 +84,7 @@
   <a href="https://github.com/waqar-younas" target="_blank">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:waqaryounas@gmail.com" target="_blank">
+  <a href="mailto:waqaryou06@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/waqar-younas-00a9153b3" target="_blank">
