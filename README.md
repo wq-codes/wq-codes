@@ -7,9 +7,7 @@
 </p>
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/waqar-younas?style=social)
-<img src="https://komarev.com/ghpvc/?username=waqar-younas" alt="waqar-younas" />
-<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waqar%20Younas-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/waqar-younas-00a9153b3)
 [![Email](https://img.shields.io/badge/Email-waqaryou06gmail.com-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:waqaryou06@gmail.com)
 
